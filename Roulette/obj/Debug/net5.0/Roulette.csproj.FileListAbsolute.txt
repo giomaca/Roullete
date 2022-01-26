@@ -1,0 +1,16 @@
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.exe
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.deps.json
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.runtimeconfig.json
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.runtimeconfig.dev.json
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.dll
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\ref\Roulette.dll
+C:\Users\Giorgi\source\repos\Roulette\Roulette\bin\Debug\net5.0\Roulette.pdb
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.csproj.AssemblyReference.cache
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.dll
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\ref\Roulette.dll
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.pdb
+C:\Users\Giorgi\source\repos\Roulette\Roulette\obj\Debug\net5.0\Roulette.genruntimeconfig.cache
